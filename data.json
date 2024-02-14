@@ -1,10 +1,6 @@
 {
   "notes": [
-    {
-      "id": 1,
-      "content": "HTML is easy",
-      "important": true
-    },
+    { "id": 1, "content": "HTML is easy", "important": true },
     {
       "id": 2,
       "content": "Browser can execute only JavaScript",
@@ -14,6 +10,17 @@
       "id": 3,
       "content": "GET and POST are the most important methods of HTTP protocol",
       "important": true
+    },
+    {
+      "id": 4,
+      "content": "Postman can be good tool to test api",
+      "important": false
+    },
+    { "id": 5, "content": "Valentine day sucks", "important": false },
+    {
+      "id": 6,
+      "content": "There is someone for me out there",
+      "important": false
     }
   ]
 }
